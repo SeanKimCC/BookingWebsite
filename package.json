@@ -18,9 +18,11 @@
   "homepage": "https://github.com/SeanKimCC/Simple-Management-System#readme",
   "dependencies": {
     "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
     "babel-preset-latest": "^6.24.0",
     "babel-preset-react": "^6.23.0",
     "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react-dom": "^15.4.2",
+    "webpack": "^2.3.2"
   }
 }
